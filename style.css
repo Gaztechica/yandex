@@ -63,7 +63,7 @@ body {
 .footer{
   height:200px;
   background-size: cover;
-  background-image: url(/imeg/fon.webp);
+  background-image: url(../imeg/fon.webp);
   background-repeat: no-repeat;
   display: flex;
 }
